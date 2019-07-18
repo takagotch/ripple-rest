@@ -2,6 +2,8 @@
 ---
 https://github.com/ripple/ripple-rest
 
+https://xrpl.org/get-started-with-the-rippled-api.html
+
 ```
 ```
 
